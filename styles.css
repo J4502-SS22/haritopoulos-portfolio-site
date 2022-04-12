@@ -104,6 +104,22 @@ h4 {
   text-align: center;
 }
 
+hr {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.headshot {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  border-top: 10px solid #EAD7C3;
+  border-bottom: 10px solid #EAD7C3;
+  border-left: 10px solid #EAD7C3;
+  border-right: 10px solid #EAD7C3;
+}
+
 footer {
   background: #C2C8BC;
   color: #3C403A;
