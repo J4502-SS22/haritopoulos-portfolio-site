@@ -100,7 +100,15 @@ h4 {
   text-align: center;
 }
 
-.resume-title{
+.resume-title {
+  text-align: center;
+}
+
+.prev-projects {
+  text-align: center;
+}
+
+.caption {
   text-align: center;
 }
 
@@ -118,6 +126,68 @@ hr {
   border-bottom: 10px solid #EAD7C3;
   border-left: 10px solid #EAD7C3;
   border-right: 10px solid #EAD7C3;
+}
+
+.b-s-1{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 350px;
+  border-top: 10px solid #EAD7C3;
+  border-bottom: 10px solid #EAD7C3;
+  border-left: 10px solid #EAD7C3;
+  border-right: 10px solid #EAD7C3;
+}
+.b-s-2{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 350px;
+  border-top: 10px solid #EAD7C3;
+  border-bottom: 10px solid #EAD7C3;
+  border-left: 10px solid #EAD7C3;
+  border-right: 10px solid #EAD7C3;
+}
+
+.print-ad {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 500px;
+  border-top: 10px solid #EAD7C3;
+  border-bottom: 10px solid #EAD7C3;
+  border-left: 10px solid #EAD7C3;
+  border-right: 10px solid #EAD7C3;
+}
+
+.banner-ad {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 300px;
+  border-top: 10px solid #EAD7C3;
+  border-bottom: 10px solid #EAD7C3;
+  border-left: 10px solid #EAD7C3;
+  border-right: 10px solid #EAD7C3;
+}
+
+.website-homepage {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 750px;
+  border-top: 10px solid #EAD7C3;
+  border-bottom: 10px solid #EAD7C3;
+  border-left: 10px solid #EAD7C3;
+  border-right: 10px solid #EAD7C3;}
+
+.brand-standards-row {
+  display: flex;
+}
+
+.brand-standards-column {
+  flex: 33.33%;
+  padding: 5px;
 }
 
 footer {
