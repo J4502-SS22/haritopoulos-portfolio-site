@@ -190,6 +190,52 @@ hr {
   padding: 5px;
 }
 
+.souvenir-program {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 500px;
+  border-top: 10px solid #EAD7C3;
+  border-bottom: 10px solid #EAD7C3;
+  border-left: 10px solid #EAD7C3;
+  border-right: 10px solid #EAD7C3;
+}
+.souvenir-link {
+  text-align: center;
+}
+
+.s-m-1{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 550px;
+  border-top: 10px solid #EAD7C3;
+  border-bottom: 10px solid #EAD7C3;
+  border-left: 10px solid #EAD7C3;
+  border-right: 10px solid #EAD7C3;
+}
+.s-m-2{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 550px;
+  border-top: 10px solid #EAD7C3;
+  border-bottom: 10px solid #EAD7C3;
+  border-left: 10px solid #EAD7C3;
+  border-right: 10px solid #EAD7C3;
+}
+
+.s-m-3{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 550px;
+  border-top: 10px solid #EAD7C3;
+  border-bottom: 10px solid #EAD7C3;
+  border-left: 10px solid #EAD7C3;
+  border-right: 10px solid #EAD7C3;
+}
+
 footer {
   background: #C2C8BC;
   color: #3C403A;
